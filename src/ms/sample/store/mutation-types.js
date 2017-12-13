@@ -1,0 +1,4 @@
+export const FIND_ALL_USERS = 'example/FIND_ALL_USERS'
+export const FIND_ALL_USERS_REQUEST = 'example/FIND_ALL_USERS_REQUEST'
+export const FIND_ALL_USERS_SUCCESS = 'example/FIND_ALL_USERS_SUCCESS'
+export const FIND_ALL_USERS_FAILURE = 'example/FIND_ALL_USERS_FAILURE'
